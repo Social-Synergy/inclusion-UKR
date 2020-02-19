@@ -1,18 +1,25 @@
 # 
-Hello and welcome to the “Inclusion UKR” wiki!
-
 Thank you for your interest in the new Ukrainian Cyrillic font “Inclusion UKR” developed by UNICEF Ukraine in partnership with NGO “Social Synergy”.
 
-“Inclusion UKR” was specifically designed to be convenient for a wide range of users, including those with dyslexia. For reference, Dyslexia is a feature of the brain that causes difficulty in perception and interpretation of printed characters. Latin type fonts have long been developed and used to help mitigate such difficulties, but the need of those, who use Cyrillic script hasn’t been met. Unlike some recent attempts to adapt existing Latin analogues, “Inclusion UKR” is a fundamentally new type font created in Ukraine in close collaboration with scientists and tested for convenience with a substantially large group of children, who have dyslexia and experience difficulties with acquiring reading skills.
+“Inclusion UKR” was specifically designed to be convenient for a wide range of users, including those with dyslexia. For reference, Dyslexia is a learning disorder caused by peculiarity of the brain, which makes processing and interpreting of written symbols problematic. According to different statistics, anywhere between 10% and 20% of global population experience difficulties related to dyslexia. Children with dyslexia have difficulty learning to read and write.  
 
-The font was designed by the Ukrainian artist, illustrator and type-designer Oleh Petrenko-Zanevsky, well known to young readers and their parents for illustrations in children's books from publishing houses [А-БА-БА-ГА-ЛА-МА-ГА](http://ababahalamaha.com.ua/en), [ВСЛ](https://starylev.com.ua/foreign-rights) and many others. Related research study was coordinated by Romana Ivanus.
+One of the ways to mitigate the issue is the use of specialized typefaces/fonts. Latin type fonts have long been developed and used, but the needs of Cyrillic script users have not been met. 
 
-Further development of styles and symbols will continue as well as testing for usability by a wider range of readers. The font will also be made available for commercial use by publishers of children's, educational and other literature. Currently, the font is open for non-commercial use the [CC BY-NC-SA license](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
+Unlike some attempts to adapt existing Latin-script solutions, “Inclusion UKR” is a fundamentally new type font created in Ukraine in close collaboration with scientists and tested for ease and comfort of use with an impressive group of 74 children with dyslexia and their parents (cf. similar tests done internationally included groups of some 15-20 adults).
 
-For free download please follow the link below. You will have to accept license agreement and enter your email address in the Google form.
+The font was designed by the Ukrainian artist, illustrator and type-designer Oleh Petrenko-Zanevsky, well known to young readers and their parents for illustrations in children's books from publishing houses publishing houses [А-БА-БА-ГА-ЛА-МА-ГА](http://ababahalamaha.com.ua/en), [ВСЛ](https://starylev.com.ua/foreign-rights) and many others. The related scientific research study was facilitated Romana Ivanus’.
+The designer and research team tested the Font both in person and remotely:
 
 
-[Download the "Inclusion UKR" font](https://forms.gle/WNAgZQPpsNcVP54w5)
+Currently, the Product consists of letters, numbers and punctuation marks – sufficient for use in Language learning or general (non-technical) literature. All current symbols are in font style Regular and offer technical formats for use in printing and web. 
+Further development of styles and symbols will continue as well as testing for usability by a wider range of readers. The font will also be made available for commercial use by publishers of children's, educational and other literature. 
+
+ Currently, the font is open for non-commercial use the [CC BY-NC-SA license](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
+ 
+For free download please use files from that repository.
+
+
+[Free survey about "Inclusion UKR" font using](https://forms.gle/WNAgZQPpsNcVP54w5)
 
 
 You can also view the font installation instructions by [clicking here](https://support.microsoft.com/en-us/help/314960/how-to-install-or-remove-a-font-in-windows).
