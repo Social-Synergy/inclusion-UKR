@@ -15,6 +15,8 @@ The designer and research team tested the Font both in person and remotely:
 Currently, the Product consists of letters, numbers and punctuation marks – sufficient for use in Language learning or general (non-technical) literature. All current symbols are in font style Regular and offer technical formats for use in printing and web. 
 Further development of styles and symbols will continue as well as testing for usability by a wider range of readers. The font will also be made available for commercial use by publishers of children's, educational and other literature. 
 
+![Illustration 1](https://github.com/Social-Synergy/inclusion-UKR/blob/master/Picture%202.png)
+
  Currently, the font is open for non-commercial use the [CC BY-NC-SA license](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
  
 For free download please use files from that repository.
