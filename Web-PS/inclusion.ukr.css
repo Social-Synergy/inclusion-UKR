@@ -1,0 +1,8 @@
+/* Webfont: inclusionUKR-Regular */@font-face {
+    font-family: 'inclusionUKR';
+    src: url('inclusion.ukr.woff2') format('woff2'), /* Modern Browsers */
+         url('inclusion.ukr.otf') format('opentype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
