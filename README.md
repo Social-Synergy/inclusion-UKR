@@ -19,7 +19,7 @@ Further development of styles and symbols will continue as well as testing for u
 
  Currently, the font is open for non-commercial use under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License** ("Public License") [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
  
-For free download please use files from repository above (file types: True Type, Open Type, WEB font, WEB font 2).
+For free download please use files from repository above (file types: .ttf, .otf, .woff, .woff2, .eot).
 
 For additional support on installing fonts, view instructions [here](https://support.microsoft.com/en-us/help/314960/how-to-install-or-remove-a-font-in-windows).
 
