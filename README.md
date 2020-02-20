@@ -19,7 +19,7 @@ Further development of styles and symbols will continue as well as testing for u
 
  Currently, the font is open for non-commercial use under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License** ("Public License") [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
  
-For free download please use files from repository above (file types: [.ttf](https://github.com/Social-Synergy/inclusion-UKR/blob/master/OpenType-TT/inclusion.ukr.ttf), [.otf](https://github.com/Social-Synergy/inclusion-UKR/blob/master/OpenType-PS/inclusion.ukr.otf), [.woff](https://github.com/Social-Synergy/inclusion-UKR/blob/master/Web-TT/inclusion.ukr.woff), .[woff2](https://github.com/Social-Synergy/inclusion-UKR/blob/master/Web-PS/inclusion.ukr.woff2), [.eot](https://github.com/Social-Synergy/inclusion-UKR/blob/master/Web-TT/inclusion.ukr.eot)).
+For free download please use files from repository folders above (file types: [.ttf](https://github.com/Social-Synergy/inclusion-UKR/blob/master/OpenType-TT/inclusion.ukr.ttf), [.otf](https://github.com/Social-Synergy/inclusion-UKR/blob/master/OpenType-PS/inclusion.ukr.otf), [.woff](https://github.com/Social-Synergy/inclusion-UKR/blob/master/Web-TT/inclusion.ukr.woff), .[woff2](https://github.com/Social-Synergy/inclusion-UKR/blob/master/Web-PS/inclusion.ukr.woff2), [.eot](https://github.com/Social-Synergy/inclusion-UKR/blob/master/Web-TT/inclusion.ukr.eot)).
 
 For additional support on installing fonts, view instructions [here](https://support.microsoft.com/en-us/help/314960/how-to-install-or-remove-a-font-in-windows).
 
