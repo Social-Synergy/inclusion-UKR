@@ -17,7 +17,7 @@ Further development of styles and symbols will continue as well as testing for u
 
 ![Illustration 1](https://github.com/Social-Synergy/inclusion-UKR/blob/master/Picture%202.png)
 
- Currently, the font is open for non-commercial use under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License ("Public License") [CC BY-NC-SA license](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
+ Currently, the font is open for non-commercial use under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License** ("Public License") [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
  
 For free download please use files from repository above.
 
