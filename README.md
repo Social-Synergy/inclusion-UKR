@@ -19,12 +19,7 @@ Further development of styles and symbols will continue as well as testing for u
 
  Currently, the font is open for non-commercial use the [CC BY-NC-SA license](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
  
-For free download please use files from that repository.
-
-
-[Free survey about "Inclusion UKR" font using](https://forms.gle/WNAgZQPpsNcVP54w5)
-
-
-You can also view the font installation instructions by [clicking here](https://support.microsoft.com/en-us/help/314960/how-to-install-or-remove-a-font-in-windows).
+For free download please use files from repository above.
+For additional support on installing fonts, view instructions [here](https://support.microsoft.com/en-us/help/314960/how-to-install-or-remove-a-font-in-windows).
 
 Happy typing!
