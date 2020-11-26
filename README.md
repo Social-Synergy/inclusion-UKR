@@ -4,17 +4,25 @@ Thank you for your interest in the new Ukrainian Cyrillic font “Inclusion UKR�
 
 One of the ways to mitigate the issue and facilitate learning is using specialized typefaces/fonts. Some Latin script type fonts have long been developed and, but the need of those, who use Cyrillic script was not met for a long time. Unlike some attempts to adapt existing Latin-script solutions, “Inclusion UKR” is a fundamentally new type font created in Ukraine in close collaboration with scientists. The initial version was tested for ease and comfort of use with an impressive group of 74 children with dyslexia and their parents (cf. similar tests done internationally included groups of some 15-20 adults).  
 
-The font was designed by the Ukrainian artist, illustrator and type-designer Oleh Petrenko-Zanevsky, well known to young readers and their parents for illustrations in children's books from publishing houses publishing houses [А-БА-БА-ГА-ЛА-МА-ГА](http://ababahalamaha.com.ua/en), [ВСЛ](https://starylev.com.ua/foreign-rights) and many others. The related scientific research study was facilitated Romana Ivanus’.
-The designer and research team tested the Font both in person and remotely:
+![Illustration 1](https://github.com/Social-Synergy/inclusion-UKR/blob/master/docs/picture_1.png)
 
-![Illustration 1](https://github.com/Social-Synergy/inclusion-UKR/blob/master/docs/Picture_1.png)
+At present, the testing continues in pilot schools both mainstream and specialized and engages a few hundred students with and without learning disorders.
 
-Currently, the Product consists of letters, numbers and punctuation marks – sufficient for use in Language learning or general (non-technical) literature. All current symbols are in font style Regular and offer technical formats for use in printing and web. 
-Further development of styles and symbols will continue as well as testing for usability by a wider range of readers. The font will also be made available for commercial use by publishers of children's, educational and other literature. 
+![Illustration 1](https://github.com/Social-Synergy/inclusion-UKR/blob/master/docs/picture_2.png)
 
-![Illustration 1](https://github.com/Social-Synergy/inclusion-UKR/blob/master/docs/Picture_2.png)
+The font was designed by the Ukrainian artist, illustrator and type-designer Oleh Petrenko-Zanevsky, well known to young readers and their parents for illustrations in children's books from publishing houses publishing houses [А-БА-БА-ГА-ЛА-МА-ГА](http://ababahalamaha.com.ua/en), [ВСЛ](https://starylev.com.ua/foreign-rights) and many others. The related scientific research studies were facilitated by Romana Ivanus’ and Eliana Danilavichute.  
 
- Currently, the font is open for non-commercial use under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License** ("Public License") [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
+The original version of the font consisted of letters, numbers and punctuation marks just sufficient for use in Language learning or general (non-technical) literature and offered technical formats for use in printing and web.  
+
+![Illustration 1](https://github.com/Social-Synergy/inclusion-UKR/blob/master/docs/picture_3.png)
+
+The current version 2.03 additionally features Latin script and an extended set of symbols. Further development of the font (including styles, letters and symbols) is under way.  
+
+![Illustration 1](https://github.com/Social-Synergy/inclusion-UKR/blob/master/docs/picture_4.png)
+
+Inclusion UKR will be made available for commercial use by publishers of children's, educational and other literature.  
+
+Currently, the font is open for non-commercial use under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License** ("Public License") [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
  
 For free download please use files from repository folders above (file types: [.ttf](https://github.com/Social-Synergy/inclusion-UKR/blob/master/OpenType-TT/inclusion.ukr.ttf), [.otf](https://github.com/Social-Synergy/inclusion-UKR/blob/master/OpenType-PS/inclusion.ukr.otf), [.woff](https://github.com/Social-Synergy/inclusion-UKR/blob/master/Web-TT/inclusion.ukr.woff), .[woff2](https://github.com/Social-Synergy/inclusion-UKR/blob/master/Web-PS/inclusion.ukr.woff2), [.eot](https://github.com/Social-Synergy/inclusion-UKR/blob/master/Web-TT/inclusion.ukr.eot)).
 
