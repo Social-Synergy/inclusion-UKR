@@ -14,8 +14,6 @@ The font was designed by the Ukrainian artist, illustrator and type-designer Ole
 
 The original version of the font consisted of letters, numbers and punctuation marks just sufficient for use in Language learning or general (non-technical) literature and offered technical formats for use in printing and web.  
 
-![Illustration 1](https://github.com/Social-Synergy/inclusion-UKR/blob/master/docs/picture_3.png) 
-
 Inclusion UKR will be made available for commercial use by publishers of children's, educational and other literature.  
 
 ![Illustration 1](https://github.com/Social-Synergy/inclusion-UKR/blob/master/docs/picture_4.png)
@@ -38,6 +36,7 @@ Winter of 2020.
 The current version added features Latin script, a set of symbols (including arithmetic) and an extended set of punctuation marks.
 The textbook with which tests are carried out in schools is printed with a font.
 Spring 2020.
+![Illustration 1](https://github.com/Social-Synergy/inclusion-UKR/blob/master/docs/picture_3.png) 
 
 ### Version 1.001
 The font includes letters of the Ukrainian alphabet (Cyrillic) and several punctuation makrs.
