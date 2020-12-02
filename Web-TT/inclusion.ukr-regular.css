@@ -1,0 +1,11 @@
+/* Webfont: InclusionUKR-Regular */@font-face {
+    font-family: 'InclusionUKR';
+    src: url('inclusion.ukr-regular.eot'); /* IE9 Compat Modes */
+    src: url('inclusion.ukr-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('inclusion.ukr-regular.woff') format('woff'), /* Modern Browsers */
+         url('inclusion.ukr-regular.woff2') format('woff2'), /* Modern Browsers */
+         url('inclusion.ukr-regular.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
