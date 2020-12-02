@@ -32,10 +32,13 @@ Further development of the font (including styles, letters and symbols) is under
 
 ### Version 2.004
 In that release of the font, the typeface of individual letters and symbols has been improved, thus taking into account the results of testing in schools.
+Winter of 2020.
 
 ### Version 2.003
 The current version added features Latin script, a set of symbols (including arithmetic) and an extended set of punctuation marks.
 The textbook with which tests are carried out in schools is printed with a font.
+Spring 2020.
 
 ### Version 1.001
 The font includes letters of the Ukrainian alphabet (Cyrillic) and several punctuation makrs.
+Summer of 2020.
