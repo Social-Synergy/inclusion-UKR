@@ -44,5 +44,5 @@ Spring 2020.
 ![Illustration 1](https://github.com/Social-Synergy/inclusion-UKR/blob/master/docs/picture_3.png) 
 
 ### Version 1.001
-The font includes letters of the Ukrainian alphabet (Cyrillic) and several punctuation makrs.
-Summer of 2020.
+The font includes letters of the Ukrainian alphabet (Cyrillic) and several punctuation marks.
+Summer of 2019.
