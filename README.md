@@ -23,10 +23,15 @@ Currently, the font is open for non-commercial use under **Creative Commons Attr
  
 For free download please use files from repository folders above (file types: [.ttf](https://github.com/Social-Synergy/inclusion-UKR/blob/master/OpenType-TT/inclusion.ukr.ttf), [.otf](https://github.com/Social-Synergy/inclusion-UKR/blob/master/OpenType-PS/inclusion.ukr.otf), [.woff](https://github.com/Social-Synergy/inclusion-UKR/blob/master/Web-TT/inclusion.ukr.woff), .[woff2](https://github.com/Social-Synergy/inclusion-UKR/blob/master/Web-PS/inclusion.ukr.woff2), [.eot](https://github.com/Social-Synergy/inclusion-UKR/blob/master/Web-TT/inclusion.ukr.eot)).
 
-For additional support on installing fonts, view instructions [here](https://support.microsoft.com/en-us/help/314960/how-to-install-or-remove-a-font-in-windows).
+For additional support on installing fonts, view instructions for Windows OS [here](https://support.microsoft.com/en-us/help/314960/how-to-install-or-remove-a-font-in-windows) and for OS X (Mac) [here](https://support.apple.com/guide/font-book/install-and-validate-fonts-fntbk1000/mac).
+The font can also be used on Linux, iOS and Android devices.
 
 Happy typing!
+
+We will be grateful for your feedback info@socsynergy.org
+They help us make the font better.
 Further development of the font (including styles, letters and symbols) is under way.
+
 
 ### Version 2.004
 In that release of the font, the typeface of individual letters and symbols has been improved, thus taking into account the results of testing in schools.
