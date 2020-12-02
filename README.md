@@ -16,7 +16,7 @@ The original version of the font consisted of letters, numbers and punctuation m
 
 ![Illustration 1](https://github.com/Social-Synergy/inclusion-UKR/blob/master/docs/picture_3.png)
 
-The current version 2.03 additionally features Latin script and an extended set of symbols. Further development of the font (including styles, letters and symbols) is under way.  
+The current version 2.04 additionally features Latin script and an extended set of symbols. Further development of the font (including styles, letters and symbols) is under way.  
 
 ![Illustration 1](https://github.com/Social-Synergy/inclusion-UKR/blob/master/docs/picture_4.png)
 
