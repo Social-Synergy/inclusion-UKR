@@ -1,4 +1,4 @@
-# 
+# About font “Inclusion UKR”
 Thank you for your interest in the new Ukrainian Cyrillic font “Inclusion UKR” developed by UNICEF Ukraine in partnership with NGO “Social Synergy”.
 “Inclusion UKR” was specifically designed to be convenient for a wide range of users, including children who have difficulties learning to read due to dyslexia. For reference, dyslexia is a learning disorder caused by differences in the brain that make processing and interpreting of written symbols problematic. Statistics estimates that anywhere between 10% and 20% of global population experience difficulties related to dyslexia. These difficulties present particular challenge for children as they learn to read and write.  
 
@@ -30,12 +30,12 @@ For additional support on installing fonts, view instructions [here](https://sup
 Happy typing!
 Further development of the font (including styles, letters and symbols) is under way.
 
-###Version 2.004
+### Version 2.004
 In that release of the font, the typeface of individual letters and symbols has been improved, thus taking into account the results of testing in schools.
 
-###Version 2.003
+### Version 2.003
 The current version added features Latin script, a set of symbols (including arithmetic) and an extended set of punctuation marks.
 The textbook with which tests are carried out in schools is printed with a font.
 
-###Version 1.001
-The font includes letters of the Ukrainian alphabet and several punctuation makrs.
+### Version 1.001
+The font includes letters of the Ukrainian alphabet (Cyrillic) and several punctuation makrs.
