@@ -14,13 +14,12 @@ The font was designed by the Ukrainian artist, illustrator and type-designer Ole
 
 The original version of the font consisted of letters, numbers and punctuation marks just sufficient for use in Language learning or general (non-technical) literature and offered technical formats for use in printing and web.  
 
-![Illustration 1](https://github.com/Social-Synergy/inclusion-UKR/blob/master/docs/picture_3.png)
+![Illustration 1](https://github.com/Social-Synergy/inclusion-UKR/blob/master/docs/picture_3.png) 
 
-The current version 2.04 additionally features Latin script and an extended set of symbols. Further development of the font (including styles, letters and symbols) is under way.  
+Inclusion UKR will be made available for commercial use by publishers of children's, educational and other literature.  
 
 ![Illustration 1](https://github.com/Social-Synergy/inclusion-UKR/blob/master/docs/picture_4.png)
 
-Inclusion UKR will be made available for commercial use by publishers of children's, educational and other literature.  
 
 Currently, the font is open for non-commercial use under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License** ("Public License") [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
  
@@ -29,3 +28,14 @@ For free download please use files from repository folders above (file types: [.
 For additional support on installing fonts, view instructions [here](https://support.microsoft.com/en-us/help/314960/how-to-install-or-remove-a-font-in-windows).
 
 Happy typing!
+Further development of the font (including styles, letters and symbols) is under way.
+
+###Version 2.004
+In that release of the font, the typeface of individual letters and symbols has been improved, thus taking into account the results of testing in schools.
+
+###Version 2.003
+The current version added features Latin script, a set of symbols (including arithmetic) and an extended set of punctuation marks.
+The textbook with which tests are carried out in schools is printed with a font.
+
+###Version 1.001
+The font includes letters of the Ukrainian alphabet and several punctuation makrs.
